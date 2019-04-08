@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\siddhartha\\Contextual-chat-bots\\model.tflearn"
+all_model_checkpoint_paths: "C:\\siddhartha\\Contextual-chat-bots\\model.tflearn"
