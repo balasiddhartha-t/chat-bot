@@ -1,2 +1,2 @@
 # chat-bot
-Chat bot experiments with tensorflow
+Create a chat bot based on the TF-IDF model using Tensorflow.
